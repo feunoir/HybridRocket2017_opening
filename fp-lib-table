@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name KUT_CommIC)(type KiCad)(uri C:\Users\feunoir\Documents\KiCad\project\HybridRocket2017\KUT-KiCad\KUT_CommIC.pretty)(options "")(descr ""))
+  (lib (name KUT_Connector)(type KiCad)(uri C:\Users\feunoir\Documents\KiCad\project\HybridRocket2017\KUT-KiCad\KUT_Connector.pretty)(options "")(descr ""))
+  (lib (name KUT_Device)(type KiCad)(uri C:\Users\feunoir\Documents\KiCad\project\HybridRocket2017\KUT-KiCad\KUT_Device.pretty)(options "")(descr ""))
+  (lib (name KUT_DriveIC)(type KiCad)(uri C:\Users\feunoir\Documents\KiCad\project\HybridRocket2017\KUT-KiCad\KUT_DriveIC.pretty)(options "")(descr ""))
+  (lib (name KUT_Passive)(type KiCad)(uri C:\Users\feunoir\Documents\KiCad\project\HybridRocket2017\KUT-KiCad\KUT_Passive.pretty)(options "")(descr ""))
+  (lib (name KUT_Sensor)(type KiCad)(uri C:\Users\feunoir\Documents\KiCad\project\HybridRocket2017\KUT-KiCad\KUT_Sensor.pretty)(options "")(descr ""))
+  (lib (name KUT_Switch)(type KiCad)(uri C:\Users\feunoir\Documents\KiCad\project\HybridRocket2017\KUT-KiCad\KUT_Switch.pretty)(options "")(descr ""))
+  (lib (name KUT_uController)(type KiCad)(uri C:\Users\feunoir\Documents\KiCad\project\HybridRocket2017\KUT-KiCad\KUT_uController.pretty)(options "")(descr ""))
+)
